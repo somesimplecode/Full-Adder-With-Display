@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+My project uses a full adder circuit to change ethe output on a 7 segement display depending on what input switches are hit.
 
 ## How to test
 
-Explain how to use your project
+Supply power and manipulate input switches I1, I2, and I7
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+7 Segment Display
